@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Oosterhoff\FilamentSimpleanalytics\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentSimpleanalyticsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-simpleanalytics';
 
     public $description = 'My command';
 
